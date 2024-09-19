@@ -1,2 +1,3 @@
 # thoughts_on_rails
-personal blog built with ruby on rails
+
+Personal blog built with Ruby on Rails.
